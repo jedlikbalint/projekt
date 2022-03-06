@@ -44,5 +44,10 @@ a{
     width: 20%;
 }
 .tablazat{
-    width: 20px;
+   float: right;
+   width: 85%;
+}
+#thead{
+    background-color: rgb(110, 6, 6); 
+    color: white; 
 }
