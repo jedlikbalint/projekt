@@ -17,7 +17,7 @@
 }
 a:hover{
     text-decoration: none;
-    font-weight: bold;
+    
     color: white;
     text-transform: uppercase;
 }
@@ -74,4 +74,11 @@ a{
 }
 h1{
     text-align: center;
+}
+h2{
+    color: white;
+}
+.gomb{
+    color: white;
+    background-color: rgb(110, 6, 6);
 }
