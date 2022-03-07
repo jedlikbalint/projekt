@@ -17,7 +17,6 @@
 }
 a:hover{
     text-decoration: none;
-    
     color: white;
     text-transform: uppercase;
 }
@@ -81,4 +80,8 @@ h2{
 .gomb{
     color: white;
     background-color: rgb(110, 6, 6);
+}
+.szponzorok h2{
+    color: black;
+
 }
