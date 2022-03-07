@@ -1,8 +1,8 @@
 .kapcsolat{
    
     width: 100px;
-border-radius: 10px;
-position: fixed;
+    border-radius: 10px;
+    position: fixed;
   bottom: 10px;
   right: 10px;
   z-index: 99; 
@@ -18,10 +18,12 @@ position: fixed;
 a:hover{
     text-decoration: none;
     font-weight: bold;
+    color: white;
+    text-transform: uppercase;
 }
 a{
     text-decoration: none;
-    color: blue;
+    color: white;
 }
 .kapcs{
     color: white;
@@ -34,20 +36,42 @@ a{
     color: white;
    background-color: rgb(110, 6, 6); 
 }
+
 .logo{
     width: 20%;
 }
+
 .csapat{
     width: 30%;
 }
+
 #carouselExampleDark{
     width: 20%;
 }
+
 .tablazat{
    float: right;
    width: 85%;
 }
+
 #thead{
     background-color: rgb(110, 6, 6); 
     color: white; 
+}
+
+.jegyvasarlas{
+    background-color:rgb(110, 6, 6);
+    border:rgb(110, 6, 6);
+    color: white;
+}
+
+#table{
+    text-align: center;
+}
+.orszag{
+    height: 50px;
+    width: 50pxpx;
+}
+h1{
+    text-align: center;
 }
