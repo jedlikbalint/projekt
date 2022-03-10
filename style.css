@@ -93,5 +93,31 @@ h2{
 .tortenet{
 
     border: black solid 2px;
-    margin: 5px;
 }
+#dardai{
+   width: 90%;
+}
+#egervari{
+    width: 90%;
+    
+   
+ }
+ #gera{
+    width: 90%;
+   
+ }
+ #rossi{
+     width: 90%;
+ }
+ .cim{
+     color: black;
+ }
+ .tel{
+     color: black;
+ }
+ .kapcscim{
+    color: white;
+    background-color: rgb(110, 6, 6);
+    
+   
+ }
