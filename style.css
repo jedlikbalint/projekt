@@ -11,18 +11,15 @@
   cursor: pointer;
   padding: 10px;
 }
-.kapcsolat a {
-    text-decoration: none;
-    color: white;
-}
 a:hover{
     text-decoration: none;
     color: white;
     text-transform: uppercase;
 }
-a{
+button:hover{
     text-decoration: none;
     color: white;
+    text-transform: uppercase;
 }
 .kapcs{
     color: white;
@@ -33,7 +30,8 @@ a{
 }
 .card-title{
     color: white;
-   background-color: rgb(110, 6, 6); 
+   background-color: rgb(110, 6, 6);
+   padding: 5px; 
 }
 
 .logo{
@@ -64,36 +62,16 @@ a{
     color: white;
 }
 
-#table{
-    text-align: center;
-}
 .orszag{
     height: 50px;
-    width: 50pxpx;
+    width: 50px;
 }
-h1{
-    text-align: center;
-}
-h2{
-    color: white;
-}
+
 .gomb{
     color: white;
     background-color: rgb(110, 6, 6);
 }
-.szponzorok h2{
-    color: black;
 
-}
-.tortenet .card-title{
-    background-color: rgb(110, 6, 6);
-    padding: 5px;
-   
-}
-.tortenet{
-
-    border: black solid 2px;
-}
 #dardai{
    width: 90%;
 }
@@ -109,17 +87,10 @@ h2{
  #rossi{
      width: 90%;
  }
- .cim{
-     color: black;
- }
- .tel{
-     color: black;
- }
+
  .kapcscim{
     color: white;
     background-color: rgb(110, 6, 6);
-    
-   
  }
  .hirek{
      text-align: justify;
@@ -141,6 +112,3 @@ h2{
     right: 20px;
     z-index: 99;
 }
-    .hir{
-        color: black;
-    }
