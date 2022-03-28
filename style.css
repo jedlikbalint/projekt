@@ -87,23 +87,10 @@ button:hover{
  #rossi{
      width: 90%;
  }
-
  .kapcscim{
     color: white;
     background-color: rgb(110, 6, 6);
- }
- .hirek{
-     text-align: justify;
- }
- .webshopcim{
-     color: black;
- }
- #linkcim{
-     color: black;
-    
-    }
-    
-
+ }    
 .menu {
     position:absolute;
     top: 27px; 
