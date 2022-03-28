@@ -102,12 +102,11 @@ button:hover{
      color: black;
     
     }
-    .kapus{
-        color: black;
-    }
+    
 
 .menu {
-    top: 25px; 
+    position:absolute;
+    top: 27px; 
     right: 20px;
     z-index: 99;
 }
